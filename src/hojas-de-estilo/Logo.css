@@ -1,0 +1,13 @@
+/* Logo de la app */
+.jotace-logo-contenedor {
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jotace-logo {
+    width: 100px;
+    height: 100px;
+}
